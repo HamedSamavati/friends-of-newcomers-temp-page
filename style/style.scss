@@ -44,6 +44,14 @@ main {
   color: white;
   justify-content: space-evenly;
   padding: 1em 0;
+  #astronaut {
+    background: url("../images/astronaut.png");
+    width: 40%;
+    height: 400px;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+  }
   img {
     width: 380px;
     justify-content: center;
